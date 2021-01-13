@@ -1,0 +1,36 @@
+:toc:
+:sectnums:
+:toclevels: 5
+:sectnumlevels: 5
+:showcomments:
+:xrefstyle: short
+:icons: font
+:source-highlighter: coderay
+:tick: &#x2714;
+:pound: &#xA3;
+
+= Title
+
+https://news.sky.com/story/covid-19-uk-vaccination-tracker-find-out-how-many-have-had-the-jab-12179220[UK vaccine tracker @Sky News]
+
+https://www.spiegel.de/international/europe/the-planning-disaster-germany-and-europe-could-fall-short-on-vaccine-supplies-a-3db4702d-ae23-4e85-85b7-20145a898abd[Germany and Europe Could Fall Short on Vaccine Supplies]
+
+https://www.bbc.com/news/world-europe-55575756[Europe's slow start: How many people have had the Covid vaccine?]
+
+FT (paid): https://www.ft.com/content/1d358d9e-a89e-4f26-a4d9-ba04ea78008e[Brussels probes member states’ compliance with EU Covid vaccine strategy]]
+
+FT (paid): https://www.ft.com/content/b1444e0b-aeda-465d-b8f5-1e502c908be5[Europe’s faltering start in the vaccine race]
+
+FT (paid): https://www.ft.com/content/119cb18b-6b8a-4588-9d4a-b2cdce5aa8f6[EU’s Covid vaccine chief defends procurement scheme]
+
+FT (paid): https://www.ft.com/content/c1575e05-70e5-4e5f-b58c-cde5c99aba5f[EU hits back as blame game over vaccine procurement intensifies]
+
+FT (paid): https://www.ft.com/content/f30859b3-98e6-42bb-831e-070b98b4e5de[EU set to more than double supply of BioNTech/Pfizer Covid vaccine]
+
+FT (paid): https://www.ft.com/content/f2646ac5-aedd-4542-a211-9be83c465c6e[EU countries in blame game over sluggish vaccine rollout]
+
+https://threadreaderapp.com/thread/1242654632305995778.html[Does Covid Virus Mutate?]
+
+https://www.telegraph.co.uk/business/2021/01/05/changed-utterly-changed-vaccine-blunder-shook-europe/?fbclid=IwAR3NY9nl5RG3VqoLbjmcPf5ETEjIFkOsN6FeNi9ueNbPCwJWX1CgrlGJa0U[Europe's vaccine blunders]
+
+
