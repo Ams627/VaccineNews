@@ -9,7 +9,9 @@
 :tick: &#x2714;
 :pound: &#xA3;
 
-= Title
+= Covid news
+
+https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/[Bloomberg global vaccination tracker]
 
 https://news.sky.com/story/covid-19-uk-vaccination-tracker-find-out-how-many-have-had-the-jab-12179220[UK vaccine tracker @Sky News]
 
@@ -32,5 +34,17 @@ FT (paid): https://www.ft.com/content/f2646ac5-aedd-4542-a211-9be83c465c6e[EU co
 https://threadreaderapp.com/thread/1242654632305995778.html[Does Covid Virus Mutate?]
 
 https://www.telegraph.co.uk/business/2021/01/05/changed-utterly-changed-vaccine-blunder-shook-europe/?fbclid=IwAR3NY9nl5RG3VqoLbjmcPf5ETEjIFkOsN6FeNi9ueNbPCwJWX1CgrlGJa0U[Europe's vaccine blunders]
+
+https://www.ft.com/content/929ef3cd-8611-49b2-9f23-918dc3470166[Covid infection provides as much immunity as the Covid vaccine] - 
+Researchers ‘strongly encouraged’ by findings of reinfection study among UK health workers
+
+https://www.bmj.com/content/372/bmj.n86[BMJ - How the Oxford-AstraZeneca covid-19 vaccine was made]
+
+https://www.cnbc.com/2021/01/12/covid-vaccine-astrazeneca-jab-could-be-distributed-in-eu-by-mid-february.html[AstraZeneca Covid vaccine could be distributed across Europe by mid-February]
+The European Medicines Agency announced on Tuesday that it is now studying the results of the AstraZeneca and Oxford University vaccine
+under an “accelerated timeline” and could issue its opinion as early as January 29. This jab is being rolled out in the United Kingdom since early January.
+
+https://www.ema.europa.eu/en/news/ema-receives-application-conditional-marketing-authorisation-covid-19-vaccine-astrazeneca[European Medicines Agency receives application for conditional marketing authorisation of COVID-19 Vaccine AstraZeneca]
+
 
 
